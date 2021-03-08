@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/cv
+https://longetsy.github.io/rsschool-cv/cv
